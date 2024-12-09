@@ -1,7 +1,8 @@
 # drawio-practice
-我使用v24.7.17的draw-io版本进行练习画图。draw-io下载链接是(https://github.com/jgraph/drawio/releases/tag/v24.7.17)
+我使用v24.7.17的draw-io版本进行练习画图。用draw-io复现和画论文的图放在这个项目里。
+draw-io下载链接是(https://github.com/jgraph/drawio/releases/tag/v24.7.17)
 
-I using it for my practice.
+I practiced drawing using the draw-io version v24.7.17. I used draw-io to reproduce the figures from the paper and place here.
 The draw-io version is v24.7.17 (https://github.com/jgraph/drawio/releases/tag/v24.7.17).
 
 
